@@ -9,6 +9,8 @@
       "id": 1,
       "name": "event1",
       "image": "https://picsum.photos/id/1035/300/200",
+	  "date": "29/07/2020",
+	  "location": "Shanghai",
       "shortDescription": "Short event 1 text goes here",
       "description": "Event 1 Long text goes here.... lots of loooooooooooonnnng text to come."
     },
@@ -16,6 +18,8 @@
       "id": 2,
       "name": "event2",
       "image": "https://picsum.photos/id/1069/300/200",
+	  "date": "12/08/2020",
+	  "location": "Beijing",
       "shortDescription": "Short event 2 text goes here",
       "description": "Event 2 Long text goes here.... lots of loooooooooooonnnng text to come."
     },
@@ -23,6 +27,8 @@
       "id": 3,
       "name": "event3",
       "image": "https://picsum.photos/id/1080/300/200",
+	  "date": "17/09/2020",
+	  "location": "Hangzhou",
       "shortDescription": "Short event 2 text goes here",
       "description": "Event 3 Long text goes here.... lots of loooooooooooonnnng text to come."
     }
