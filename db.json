@@ -7,30 +7,30 @@
   "events": [
     {
       "id": 1,
-      "name": "event1",
+      "name": "Nam dapibus sollicitudin mauris",
       "image": "https://picsum.photos/id/1035/300/200",
 	  "date": "29/07/2020",
 	  "location": "Shanghai",
-      "shortDescription": "Short event 1 text goes here",
-      "description": "Event 1 Long text goes here.... lots of loooooooooooonnnng text to come."
+      "shortDescription": "Vivamus ac augue vitae metus vestibulum imperdiet. Quisque eleifend convallis aliquet.",
+      "description": "Donec varius justo mi, in lacinia metus convallis at. Integer congue iaculis laoreet. Integer vitae mauris est. Curabitur pretium tincidunt justo at fermentum. Etiam in quam eu purus molestie facilisis. Vivamus a enim diam. Maecenas vitae laoreet ipsum, quis suscipit neque."
     },
     {
       "id": 2,
-      "name": "event2",
+      "name": "Sed ut purus venenatis",
       "image": "https://picsum.photos/id/1069/300/200",
 	  "date": "12/08/2020",
 	  "location": "Beijing",
-      "shortDescription": "Short event 2 text goes here",
-      "description": "Event 2 Long text goes here.... lots of loooooooooooonnnng text to come."
+      "shortDescription": "Egestas mauris id, sagittis ligula. Nam ac nunc volutpat, porttitor est vel, suscipit felis",
+      "description": "Cras a tellus consequat, lobortis velit sed, vehicula tortor. Nunc eu dolor iaculis nisl vestibulum feugiat sodales ac tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec commodo nisl. Vestibulum faucibus a erat sed tincidunt. Quisque volutpat sollicitudin dictum. Donec in nisi egestas, efficitur lectus et, faucibus mi. Pellentesque lectus leo, congue consequat est ac, ultrices tempus diam."
     },
     {
       "id": 3,
-      "name": "event3",
+      "name": "Aliquam sed tortor libero",
       "image": "https://picsum.photos/id/1080/300/200",
 	  "date": "17/09/2020",
 	  "location": "Hangzhou",
-      "shortDescription": "Short event 2 text goes here",
-      "description": "Event 3 Long text goes here.... lots of loooooooooooonnnng text to come."
+      "shortDescription": "Etiam eu turpis id mauris pharetra suscipit. Vivamus elementum egestas magna nec vulputate.",
+      "description": "Sed id volutpat lacus, eu imperdiet magna. Vestibulum id ex eu dui mollis interdum id at est. Fusce ac augue elementum, dapibus dui at, luctus augue. Duis aliquet orci tempus nisi lobortis elementum. Cras sagittis ante quis diam tincidunt pharetra. Nulla dictum fringilla mauris vel iaculis. Morbi justo erat, pharetra fermentum blandit id, blandit eget turpis."
     }
   ],
   "comments": [
