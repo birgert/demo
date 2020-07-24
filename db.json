@@ -4,6 +4,29 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "events": [
+    {
+      "id": 1,
+      "name": "event1",
+      "image": "https://picsum.photos/300/200",
+      "shortDescription": "Short event 1 text goes here",
+      "description": "Event 1 Long text goes here.... lots of loooooooooooonnnng text to come."
+    },
+    {
+      "id": 2,
+      "name": "event2",
+      "image": "https://picsum.photos/300/200",
+      "shortDescription": "Short event 2 text goes here",
+      "description": "Event 2 Long text goes here.... lots of loooooooooooonnnng text to come."
+    },
+    {
+      "id": 3,
+      "name": "event3",
+      "image": "https://picsum.photos/300/200",
+      "shortDescription": "Short event 2 text goes here",
+      "description": "Event 3 Long text goes here.... lots of loooooooooooonnnng text to come."
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
