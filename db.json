@@ -8,21 +8,21 @@
     {
       "id": 1,
       "name": "event1",
-      "image": "https://picsum.photos/seed/300/200",
+      "image": "https://picsum.photos/seed/picsum/300/200",
       "shortDescription": "Short event 1 text goes here",
       "description": "Event 1 Long text goes here.... lots of loooooooooooonnnng text to come."
     },
     {
       "id": 2,
       "name": "event2",
-      "image": "https://picsum.photos/seed/300/200",
+      "image": "https://picsum.photos/seed/picsum/300/200",
       "shortDescription": "Short event 2 text goes here",
       "description": "Event 2 Long text goes here.... lots of loooooooooooonnnng text to come."
     },
     {
       "id": 3,
       "name": "event3",
-      "image": "https://picsum.photos/seed/300/200",
+      "image": "https://picsum.photos/seed/picsum/300/200",
       "shortDescription": "Short event 2 text goes here",
       "description": "Event 3 Long text goes here.... lots of loooooooooooonnnng text to come."
     }
